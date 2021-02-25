@@ -1,0 +1,11 @@
+0:00 - 3:30 => Engenharia de software, Modelos de processos, metodos ageis
+3:31 - 5:56 => o que é software, definição, atributos de softwares,  
+5:57 - 6:19 => Engenharia de software, produção de software 
+06:20 - 8:46 => software confiaveis e em menor tempo
+8:47 - 10:34 => processos de software, feito do zero ou estendido, atividades fundamentais
+10:35 - 15:59 => Modelos de processos de software, representação simplificada frameworks, cascata, incremental, orientada a reuso
+15:60 - 17:04 => atividades do processo, atividades tecnicas, especificar, projeto e testar, atividades basicas, especificação, desenvolvimento, validação, evolução
+17:05 - 18:15 => Requisitos de Engenharia, documentação de requisitos,
+18:16 - 19:44 => modelo geral , arquiterura do sistema, saidas de projeto, atividades do projeto
+19:45 - 20:53 => estagios de testes, teste de componentes, sistema, fases de testes, 
+20:54 - 22:42 => evolução do sistema
